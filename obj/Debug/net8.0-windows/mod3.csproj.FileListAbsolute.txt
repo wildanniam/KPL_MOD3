@@ -1,0 +1,16 @@
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod3\mod3\bin\Debug\net8.0-windows\mod3.exe
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod3\mod3\bin\Debug\net8.0-windows\mod3.deps.json
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod3\mod3\bin\Debug\net8.0-windows\mod3.runtimeconfig.json
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod3\mod3\bin\Debug\net8.0-windows\mod3.dll
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod3\mod3\bin\Debug\net8.0-windows\mod3.pdb
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod3\mod3\obj\Debug\net8.0-windows\mod3.Form1.resources
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod3\mod3\obj\Debug\net8.0-windows\mod3.csproj.GenerateResource.cache
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod3\mod3\obj\Debug\net8.0-windows\mod3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod3\mod3\obj\Debug\net8.0-windows\mod3.AssemblyInfoInputs.cache
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod3\mod3\obj\Debug\net8.0-windows\mod3.AssemblyInfo.cs
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod3\mod3\obj\Debug\net8.0-windows\mod3.csproj.CoreCompileInputs.cache
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod3\mod3\obj\Debug\net8.0-windows\mod3.dll
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod3\mod3\obj\Debug\net8.0-windows\refint\mod3.dll
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod3\mod3\obj\Debug\net8.0-windows\mod3.pdb
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod3\mod3\obj\Debug\net8.0-windows\mod3.genruntimeconfig.cache
+D:\Documents\Kuliah\Matkul\Semester 4\KPL\TP\Mod3\mod3\obj\Debug\net8.0-windows\ref\mod3.dll
